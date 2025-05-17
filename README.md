@@ -38,8 +38,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
@@ -57,6 +55,6 @@
 ---
 
 ## 🔥 Profile Visitors
-[![](https://visitcount.itsvg.in/api?id=KartikSoni69&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=KartikSoni69&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
