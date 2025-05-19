@@ -43,11 +43,6 @@
 ---
 ## Currently Learning:
 1. Reverse Engineering with Ghidra
-
-
----
-
-## 🔥 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=KartikSoni69&label=Profile%20views&color=0e75b6&style=flat)
+2. Davinci Resolve
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
