@@ -41,16 +41,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
+## Currently Learning:
+1. Reverse Engineering with Ghidra
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikSoni69&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KartikSoni69&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSoni69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
