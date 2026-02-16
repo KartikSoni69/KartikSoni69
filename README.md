@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
-<h3 align="center">AI/ML Explorer 🚀 | Tech Enthusiast | Debugger of the Matrix 🧠</h3>
+<h3 align="center">AI/ML Explorer  | Tech Enthusiast | </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -7,15 +7,15 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 🎓 Currently pursuing **B.Tech in AI & ML**
-- 🧠 I love solving complex problems and building intelligent systems
-- 🔍 Passionate about learning new frameworks, optimizing models, and pushing boundaries
+- Currently pursuing **B.Tech in AI & ML**
+- Passionate about learning new frameworks, LLMs.
+- Complex math fascinates me and I love it. 
 
 ---
 
-## 🌐 Connect With Me:
+##  Connect With Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikksoni._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-soni-8957a4296/)
@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -41,8 +41,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
-## Currently Learning:
+## Currently Learning & working on:
 1. Reverse Engineering with Ghidra
-2. Davinci Resolve
+2. Comparing various latency reduction techniques in multimodal rag
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
