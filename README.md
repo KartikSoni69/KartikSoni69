@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
-<h3 align="center">AI/ML Explorer  | Tech Enthusiast | </h3>
+<h3 align="center">AI/ML Explorer  | Tech Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
